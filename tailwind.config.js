@@ -20,6 +20,13 @@ export default {
       fontFamily: {
         outfit: ["var(--font-outfit)", "sans-serif"],
         ovo: ["var(--font-ovo)", "serif"],
+      },
+      boxShadow: {
+        'black': '4px 4px 0 #000',
+        'white': '4px 4px 0 #fff'
+      },
+      gridTemplateColumn: {
+        'auto': 'repeat(auto-fit, minmax(200px, 1fr))'
       }
     },
   }

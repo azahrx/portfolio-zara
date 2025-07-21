@@ -4,7 +4,8 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <div id="top" className='w-11/12 pt-32 max-w-3xl text-center mx-auto h-screen flex flex-col items-center justify-center gap-4'>
+    <div className='w-11/12 max-w-3xl text-center mx-auto h-screen flex flex-col items-center justify-center gap-4'>
+      {/* TODO: Fix padding top */}
       <div>
         <Image
             src={assets.profile_img}
