@@ -20,9 +20,12 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
+    <html
+      lang="en"
+      className={`${outfit.variable} ${ovo.variable}`}
+      >
       <body
-        className={`${outfit.variable} ${ovo.variable} antialiased leading-8 overflow-x-hidden`}
+        className="antialiased leading-8 overflow-x-hidden font-outfit"
       >
         {children}
       </body>

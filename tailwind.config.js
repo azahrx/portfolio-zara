@@ -1,19 +1,20 @@
+/* eslint-disable import/no-anonymous-default-export */
+const { fontFamily } = require('tailwindcss/defaultTheme')
 
-module.exports = {
+/** @type {import('tailwindcss').Config} */
+export default {
   content: [
-    './app/**/*.{js,ts,jsx,tsx,mdx}',
-    './pages/**/*.{js,ts,jsx,tsx,mdx}',
-    './components/**/*.{js,ts,jsx,tsx,mdx}',
+    "./app/**/*.{js,ts,jsx,tsx}",
+    "./components/**/*.{js,ts,jsx,tsx}"
   ],
   theme: {
     extend: {
       colors: {
-        hover: {
-          light: '#fcf4ff',
-          dark: '#2a004a',
-        },
-        translucent: {
-          dark: '#11001'
+        // TODO: these dont work
+        colors: {
+          'hover-light': '#fcf4ff',
+          'hover-dark': '#2a004a',
+          'dark-theme': '#11001f'
         },
       },
       fontFamily: {
