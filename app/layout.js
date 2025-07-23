@@ -14,7 +14,7 @@ const ovo = Ovo({
 });
 
 export const metadata = {
-  title: "Welcome to Zara's Space",
+  title: "by Zahra",
   description: "",
 };
 

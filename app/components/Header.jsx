@@ -8,7 +8,7 @@ const Header = () => {
       {/* TODO: Fix padding top */}
       <div>
         <Image
-            src={assets.profile_img}
+            src={assets.profile_img_zahra}
             alt=''
             className='rounded-full w-32'
         />
