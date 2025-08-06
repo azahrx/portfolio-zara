@@ -123,11 +123,11 @@ export const serviceData = [
 ]
 
 export const infoList = [
-    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'HTML, CSS, JavaScript React Js, Next Js' },
+    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'JavaScript, ReactJS, NextJS' },
     { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'Bachelor Degree in Computer Science' },
-    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Led and collaborated more than X projects' }
+    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Led and collaborated more than 20 projects' }
 ];
 
 export const toolsData = [
-    assets.atlassian, assets.asana, assets.trello, assets.vscode, assets.figma, assets.notion, assets.google
+    assets.atlassian, assets.asana, assets.trello, assets.vscode
 ];

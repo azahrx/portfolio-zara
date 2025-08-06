@@ -20,7 +20,7 @@ const Header = () => {
           junior project manager based in Jakarta.
       </h1>
       <p className='max-w-2xl mx-auto font-ovo'>
-          I am a project manager from Jakarta, Indonesia with 2 years experience in global company including technical background as software developer handling clients such as Google and OCI.
+          I am a project manager from Jakarta, Indonesia with 3 years experience in global company including technical background as software developer handling clients such as Google and OCI.
       </p>
       <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'>
         <a 

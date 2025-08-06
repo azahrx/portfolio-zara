@@ -17,16 +17,16 @@ const About = () => {
           <Image src={assets.user_image_zahra} alt='User' className='w-full rounded-3xl' />
         </div>
         <div className='flex-1'>
-          <p className='mb-10 max-w-2xl font-ovo'>
+          <p className='mb-10 max-w-2xl font-ovo lg:max-w-5xl'>
           I am an experienced Junior Project Manager with
-          a year experience as a project manager and 2 years
+          a year experience as a project manager and 3 years
           experience as software developer with professional
           expertise in the field. Throughout my career, I
           have had the privilege of collaborating with
           prestigious organizations, contributing to their
           success and growth.</p>
 
-          <ul className='grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-2xl'>
+          <ul className='grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-2xl lg:max-w-5xl'>
             {infoList.map(({icon, iconDark, title, description}, index)=>(
               <li
                 className='border-[0.5px] border-gray-400 rounded-xl p-6 cursor-pointer hover:bg-[#fcf4ff] hover:-translate-y-1 duration-500 transform hover:shadow-[4px_4px_0_#000]'
