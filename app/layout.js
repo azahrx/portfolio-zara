@@ -14,7 +14,7 @@ const ovo = Ovo({
 });
 
 export const metadata = {
-  title: "by Zahra",
+  title: "Fathimah Az Zahra – Project Manager, Agile & Scrum Practitioner",
   description: "",
 };
 

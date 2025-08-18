@@ -18,13 +18,7 @@ const About = () => {
         </div>
         <div className='flex-1'>
           <p className='mb-10 max-w-2xl font-ovo lg:max-w-5xl'>
-          I am an experienced Junior Project Manager with
-          a year experience as a project manager and 3 years
-          experience as software developer with professional
-          expertise in the field. Throughout my career, I
-          have had the privilege of collaborating with
-          prestigious organizations, contributing to their
-          success and growth.</p>
+          Project Manager with 3 years of experience and a strong foundation in software development. Skilled in Agile frameworks such as Scrum and Kanban, with proven success in leading cross-regional projects across Europe, the US, and APAC. Combining technical expertise with project leadership, adept at managing distributed teams, aligning stakeholders, and ensuring successful execution from planning to delivery.</p>
 
           <ul className='grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-2xl lg:max-w-5xl'>
             {infoList.map(({icon, iconDark, title, description}, index)=>(

@@ -173,10 +173,10 @@ export const workData = [
 ]
 
 export const serviceData = [
-    { icon: assets.web_icon, title: 'Web design', description: 'Web development is the process of building, programming...', link: '' },
-    { icon: assets.mobile_icon, title: 'Mobile app', description: 'Mobile app development involves creating software for mobile devices...', link: '' },
-    { icon: assets.ui_icon, title: 'UI/UX design', description: 'UI/UX design focuses on creating a seamless user experience...', link: '' },
-    { icon: assets.graphics_icon, title: 'Graphics design', description: 'Creative design solutions to enhance visual communication...', link: '' },
+    { icon: assets.web_icon, title: 'Project delivery', description: 'From kickoff to final delivery, projects are guided with structure, clarity, and momentum. Every stage is managed to stay on time, within scope, and aligned with your goals, ensuring outcomes that create real business impact.', link: '' },
+    { icon: assets.mobile_icon, title: 'Process & Operations', description: 'Efficient processes are the backbone of successful teams. Workflows are streamlined, the right tools are put in place, and bottlenecks are removed so your business can operate with focus, speed, and confidence.', link: '' },
+    { icon: assets.ui_icon, title: 'Team enablement', description: 'High-performing teams need clarity, alignment, and the right environment to thrive. Through training, facilitation, and support, teams are empowered to collaborate effectively and stay focused on shared goals.', link: '' },
+    { icon: assets.graphics_icon, title: 'Business support', description: 'Strong strategies are built on insights and adaptability. From requirements gathering and analysis to guiding organizational change, support is provided to ensure business decisions are clear, data-driven, and future-ready.', link: '' },
 ]
 
 export const infoList = [

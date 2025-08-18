@@ -13,9 +13,8 @@ const Services = () => {
       </h2>
 
       <p className='text-center max-w-2xl mx-auto mt-5 mb-12 font-ovo'>
-        I am an experienced Junior Project Manager with
-        a year experience as a project manager and 2 years
-        experience as software developer.
+        Offering end-to-end project delivery, streamlined operations, empowered teams, and strategic business support,
+        these services are designed to bring clarity, efficiency, and measurable results to your projects.
       </p>
 
       <div className='grid [grid-template-columns:repeat(auto-fit,minmax(200px,1fr))] gap-6 my-10'>
@@ -26,8 +25,8 @@ const Services = () => {
                 <Image src={icon} alt='' className='w-10' />
                 <h3 className='text-lg my-4 text-gray-700'>{title}</h3>
                 <p className='text-sm text-gray-600 leading-5'>{description}</p>
-                <a href={link} className='flex items-center gap-2 text-sm mt-5'>
-                    Read more <Image alt='' src={assets.right_arrow} className='w-4' />
+                <a href="#contact" className='flex items-center gap-2 text-sm mt-5'>
+                    Let's collaborate! <Image alt='' src={assets.right_arrow} className='w-4' />
                 </a>
             </div>
         ))}
