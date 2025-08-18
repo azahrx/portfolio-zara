@@ -24,7 +24,7 @@ const Work = () => {
               key={index}
               style={{ backgroundImage: `url(${project.bgImage})` }}
               className='bg-no-repeat bg-cover bg-center rounded-xl relative cursor-pointer group flex-shrink-0 
-              min-w-[320px] max-w-[320px] min-h-[360px] max-h-[440px] aspect-[4/3]'
+              min-w-[360px] max-w-[360px] min-h-[360px] max-h-[440px] aspect-[4/3]'
             >
               {/* Project Info Box */}
               <div className='bg-white w-11/12 rounded-md absolute bottom-5 left-1/2 -translate-x-1/2 py-4 px-6 flex items-center justify-between duration-500 group-hover:bottom-7'>

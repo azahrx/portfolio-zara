@@ -94,68 +94,81 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'Frontend project',
-        description: 'Web Design',
-        bgImage: '/work-1.png',
+        title: 'ftrprf',
+        description: 'Futureproof',
+        bgImage: '/ftrprf.png',
         showSendIcon: true,
         link: 'https://ftrprf.com/'
     },
     {
-        title: 'Geo based app',
-        description: 'Mobile App',
-        bgImage: '/work-2.png',
+        title: 'Google Cross Industry',
+        description: 'Google Cloud Space',
+        bgImage: '/crossindustry.png',
     },
     {
-        title: 'Photography site',
-        description: 'Web Design',
-        bgImage: '/work-3.png',
-    },
-    {
-        title: 'UI/UX designing',
-        description: 'UI/UX Design',
-        bgImage: '/work-4.png',
-    },
-    {
-        title: 'Frontend project',
-        description: 'Web Design',
-        bgImage: '/work-1.png',
+        title: 'Think Big Act Now',
+        description: 'Think Big Act Now',
+        bgImage: '/tban.png',
         showSendIcon: true,
-        link: 'https://ftrprf.com/'
+        link: 'https://thinkbigactnow.org/'
     },
     {
-        title: 'Geo based app',
-        description: 'Mobile App',
-        bgImage: '/work-2.png',
+        title: 'PadelVA',
+        description: 'SportsVA',
+        bgImage: '/padelva.png',
+        showSendIcon: true,
+        link: 'https://padelva.tv/'
     },
     {
-        title: 'Photography site',
-        description: 'Web Design',
-        bgImage: '/work-3.png',
+        title: 'Gemini',
+        description: 'Google Cloud Space',
+        bgImage: '/gemini.png',
     },
     {
-        title: 'UI/UX designing',
-        description: 'UI/UX Design',
-        bgImage: '/work-4.png',
+        title: 'Veilig Melden',
+        description: 'Veilig Melden',
+        bgImage: '/vm.png',
+        showSendIcon: true,
+        link: 'https://veilig-melden.nl/'
     },
     {
-        title: 'Frontend project',
-        description: 'Web Design',
-        bgImage: '/work-1.png',
+        title: 'Bali Bliss Estate',
+        description: 'Bali Bliss Estate',
+        bgImage: '/balibliss.png',
     },
     {
-        title: 'Geo based app',
-        description: 'Mobile App',
-        bgImage: '/work-2.png',
+        title: 'Incentro',
+        description: 'Incentro',
+        bgImage: '/incentro.png',
+        showSendIcon: true,
+        link: 'https://incentro.com/'
     },
     {
-        title: 'Photography site',
-        description: 'Web Design',
-        bgImage: '/work-3.png',
+        title: 'My Hidden Impact',
+        description: 'Think Big Act Now',
+        bgImage: '/mhi.png',
+        showSendIcon: true,
+        link: 'https://myhiddenimpact.com/'
     },
     {
-        title: 'UI/UX designing',
-        description: 'UI/UX Design',
-        bgImage: '/work-4.png',
+        title: 'Retail Demo',
+        description: 'Google Cloud Space',
+        bgImage: '/retaildemo.png',
+    },
+    {
+        title: 'Odoo POS Module',
+        description: 'Hashmicro',
+        bgImage: '/hashmicro.png',
+    },
+    {
+        title: 'Joycom Community Platform',
+        description: 'Sagara Tech',
+        bgImage: '/joycom.png',
+    },
+    {
+        title: 'UiPath Testing',
+        description: 'OCI Global',
+        bgImage: '/uipath.png',
     },
 ]
 
