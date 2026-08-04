@@ -17,10 +17,10 @@ const Header = () => {
           Hi! I'm Fathimah Azzahra <Image src={assets.hand_icon} alt='' className='w-6' />
       </h3>
       <h1 className='text-3xl sm:text-6xl lg:text-[66px] font-ovo'>
-          junior project manager based in Jakarta.
+          project manager based in Jakarta.
       </h1>
       <p className='max-w-2xl mx-auto font-ovo'>
-          I am a project manager from Jakarta, Indonesia with 3 years experience in global company including technical background as software developer handling clients such as Google and OCI.
+          I am a project manager from Jakarta, Indonesia with 5 years experience in global company including technical background as software developer handling clients such as Google and OCI.
       </p>
       <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'>
         <a 
@@ -34,7 +34,7 @@ const Header = () => {
           />
         </a>
         <a
-          href="/cv-zahra.pdf"
+          href="/cv-zahra-2026.pdf"
           download
           className='px-10 py-3 border rounded-full border-gray-500 flex items-center gap-2'>
             my resume 
